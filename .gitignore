@@ -1,0 +1,15 @@
+# 一時ファイル
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# エディタ関連
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# システムファイル
+desktop.ini
